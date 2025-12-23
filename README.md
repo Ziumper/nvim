@@ -5,20 +5,14 @@ Adds following:
 - showing numbers in nvim 
 - showing diagnostics errors with `CTRL+W d`
 - limit tab to 2 space characters instead 4
+- integrates lazy.nvim
 
 ## Installation 
 
 Initial configuration and modules for configuration
 
 ```
-sudo pacman -Syu
-sudo pacman -Syu nvim
-yay -S nvim-lazy
-yay -S neovim-lspconfig-git
-```
-
-Phpactor installation
-
-```
+sudo pacman -Syu nvim luarocks lua51
 yay -S phpactor
 ```
+

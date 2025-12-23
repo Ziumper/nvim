@@ -1,0 +1,5 @@
+{
+  "godot.nvim": { "branch": "main", "commit": "35f63ace3c3a5a2cf8f36a0a0da569a14a69fab6" },
+  "lazy.nvim": { "branch": "main", "commit": "306a05526ada86a7b30af95c5cc81ffba93fef97" },
+  "nvim-lspconfig": { "branch": "master", "commit": "8973916a3d015d65a8c4614e141f4270a713cf33" }
+}
