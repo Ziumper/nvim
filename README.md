@@ -6,6 +6,7 @@ Adds following:
 - showing diagnostics errors with `CTRL+W d`
 - limit tab to 2 space characters instead 4
 - integrates lazy.nvim
+- integrates automcomplete for php
 
 ## Installation 
 
