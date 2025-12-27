@@ -13,7 +13,7 @@ Adds following:
 Initial configuration and modules for configuration
 
 ```
-sudo pacman -Syu nvim luarocks lua51
+sudo pacman -Syu nvim luarocks lua51 openbsd-netcat
 yay -S phpactor
 ```
 
